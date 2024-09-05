@@ -4,17 +4,12 @@
 <br/>
 
 <h2>About</h2>
-<strong>FILL THIS IN</strong><br/>
-Answer these questions: What is your project? Why'd you build it?
 
 My project is a symptom tracker app that is calendar style so that you can moniter and share your symptoms with your care provider.
 
 <h2>Goal and requirements</h2>
-<strong>FILL THIS IN</strong><br/>
- Summarize your goals, non-goals, and project requirements from your design doc. Make sure to link your design doc here as well.
 
  My goals are to learn more about web design and building apps because I've only worked minimally with Java in Poole's class.
- 
  https://docs.google.com/document/d/10_-w0U0g9-nZNWrv0AeLapOrMgm5LGXsbE5XR1cLJsk/edit?usp=sharing
  
  <h3>Sprint Goal</h3>
